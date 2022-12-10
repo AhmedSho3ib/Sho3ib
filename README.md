@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @AhmedSho3ib
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @AhmedShoaib
 - 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me instagram : Sho3ib_1
 
 <!---
