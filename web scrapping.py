@@ -1,3 +1,5 @@
+# code of web scrapping for yalla-kora website
+
 import requests
 from bs4 import BeautifulSoup
 import csv
