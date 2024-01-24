@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmedShoaib
-- 🌱 I’m currently learning JAVA
-- 📫 How to reach me instagram : Sho3ib_1
+- 🌱 I’m currently learning Data Science
+- 📫 How to reach me  -  instagram : Sho3ib_1
 
 <!---
 AhmedSho3ib/AhmedSho3ib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
